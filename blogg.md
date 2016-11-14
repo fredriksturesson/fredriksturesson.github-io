@@ -3,9 +3,9 @@ layout: page
 title: Blogg
 permalink: /blogg/
 ---
-<div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+
+  <h1 class="page-heading">Nedanför hittar ni alla mina blogginlägg</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -20,4 +20,4 @@ permalink: /blogg/
   </ul>
 
 
-</div>
+

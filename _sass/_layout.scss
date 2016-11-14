@@ -93,12 +93,15 @@
  * Site footer
  */
 .site-footer {
-    border-top: 0px solid $grey-color-light;
-    padding: $spacing-unit 0;
     width: 800px;
+    height: 50px;
     margin: auto;
-    height: 0px;
     background-color: $head-foot-color;
+}
+.site-footer p{
+    text-align: center;
+    color: $menu-color;
+    padding-top:15px;
 }
 
 
