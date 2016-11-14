@@ -7,14 +7,17 @@ permalink: /ommig/
 # Vem är jag?
 Hej!
 Mitt namn är som ni förmodligen redan vet nu Fredrik Sturesson. Jag bor tillsammans med min sambo i Alingsås med våran valp Shiva.
-Nuvarande läser jag "utveckling och drife av mjukvarusystem" på distans med bas på Linnéuniversitetet. Mer om det under rubrken "Mina studier". 
+Nuvarande läser jag "utveckling och drife av mjukvarusystem" på distans med bas på Linnéuniversitetet. Mer om det under  rubrken "Mina studier". 
 Jag är en glad och nyfiken pojk på 22 år. Pojk skulle jag nog fortfarande definera mig som med tanke på hur barnslig jag kan va..
 
+![Picture of my dog "Shiva"](../pics/shiva.jpg)
 
 # Mina stuider
 I programet "utveckling och drife av mjukvarusystem" har vi än så länge läst Javascript och HTML/CSS, de kurser är nu avslutade.
 Nu läser vi nu "Klientbaserad webbprogrammering" som är en kurs som kopplar samman Javascript med HTML/CSS.
 Parallellt med "Klientbaserad webbprogrammering" läser vi även Java.
+
+
 
 # Distans stuider
 Distans stuider kan för många låta lite avskräckade och jobbigt och svårt, vilket jag kan förstå för det låter väldigt konstigt att man kan sitta hemma i tre år och få sin examen. 
