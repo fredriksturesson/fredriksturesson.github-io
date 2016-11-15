@@ -4,4 +4,19 @@ title: Kontakt
 permalink: /kontakt/
 ---
 
-INFORMATION OM HUR NI KOMMER I KONTAKT MED MIG KOMMER HÄR
+### Epost
+[Student epost (fs222qi@student.lnu.se)](mailto:fs222qi@student.lnu.se)
+
+[Privat epost (fredrik.kontakt@gmail.com)](mailto:fredrik.kontakt@gmail.com)
+
+
+### Sociala medier
+[Facebook](https://www.facebook.com/sturessonfredrik)
+
+
+
+
+### Telefon
+Mobilnummer: 070 459 65 55
+
+

@@ -106,6 +106,23 @@
 }
 
 
+.leftBox{
+    float:left;
+    width:500px;
+    border-bottom: solid 1px;
+    min-height: 250px;
+    padding-top:20px;
+}
+
+
+.picture{
+    float:right;
+    width:200px;
+    border: solid 5px;
+    height: 200px;
+    margin-top:50px;
+}
+
 
 #leftContent{
 
@@ -123,7 +140,7 @@
 
 #profile{
     border: solid 5px;
-    border-color: #FFF;
+    border-color: #eeeeff;
 }
 
 #mainContent{
