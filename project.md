@@ -28,6 +28,7 @@ Klicka på länken nedanför att se hemsidan till restaurangen BBQhouse.
 #### Beskrivning
 
 I grundläggandeprogrammering jobbade vi med Javascript, vi gjorde tre stycken olika examinationsuppgifter.
+
 Den första gick ut på att man skulle skriva skript som löste olika mattetal.
 
 Den andra uppgiften gick ut på att man skulle skriva en ToDo-list.

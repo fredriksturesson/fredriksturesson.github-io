@@ -11,6 +11,7 @@ categories: jekyll update
 Att arbeta med scss var en ny och spännande teknik för min del. Jag har arbetat en del med html och css innan jag påbörjade denna utbildning men aldrig använt mig av denna teknik. Från början när jag hörde talas om det på föreläsningen kändes det som att det skulle kännas ganska så enkelt att ställa om sig till ett nytt arbetssätt, men efter att fått igång Vagrant efter mycket strul så va jag inte längre så säker med att det skulle bli ”enkelt”.
 
 Om man jämför scss och css så är det inte svårt att förstå att med hjälp av scss så kan man spara både tid och energi då man inte alltid behöver upprepa sig utav koden, man behöver inte skriva lika mycket och man behöver inte söka efter flera olika css attribut när man vill ändra t ex färgen på texten eller på rutorna på hemsidan, det räcker att ändra på ett ställe och då uppdateras allt som berörs av attributet på hemsidan.
+Med scss måste man ha något som omvandlar koden (generator) som gör kodenvi skrivit till ren html / css. Vilket kräver mer program men gör det också enklare för det funkar på allas datorer oavsett operativsystem.
 
 När jag började arbeta med uppgiften och scss försökte jag förstå mig på hur allt fungerade först med alla filer som fanns från början. Jag ändrade text färg, och lite bakgrundsfärger och liknande och försökte hitta vad allt gjorde.
 
@@ -34,7 +35,7 @@ Markdown eller andra ”static site generator” verktyg skulle jag säga passar
 
 Robots.txt används för att skydda filer på hemsidan, ibland vill man inte att användare skall kunna komma åt visa filer och med hjälp utav robots.txt kan man skydda sig lite från detta. Det är dock inte rekommenderat att man sparar lösenord eller annan känsligdata i en fil på servern ändå och tro att den skulle vara helt skyddad av robots.txt.
 
-Jag har valt att lägga till Disallow: _config.yml i robots.txt för att jag inte vill att användare skall komma åt den filen.
+Jag har valt att lägga till Disallow: i robots.txt för att till låta "spindlar/botar" överallt på sidan.
 
 <br>
 
@@ -59,4 +60,4 @@ Det tog mig ca 3 – 5 minuter att få det inlagt på blogginläggen, man får e
 
 Open graph används för att göra det enklare för användare att dela saker från sidan. Med open graph blir det en förhandsvisning av innehållet när man delar sidan så användere som ser ”delningen” vet vad det är den går in på för sida och att det faktiskt är relevant för den personen och inte bara se en länk.
 
-Själv använde jag mig av Open graph i mina blogginlägg så ifall man vill dela blogginläggen vet användarna som läser delningen vad inlägget handlar om innan dom klickar.
+Själv la jag open graph taggarna i head.html och ställde in dom så det passa min sida!

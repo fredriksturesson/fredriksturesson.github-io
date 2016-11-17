@@ -16,7 +16,3 @@ permalink: /kontakt/
 
 
 
-### Telefon
-Mobilnummer: 070 459 65 55
-
-
