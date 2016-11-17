@@ -35,7 +35,7 @@ Parallellt med "Klientbaserad webbprogrammering" läser vi även Java.
 </div>
 
 <div class="picture">
-![Picture of my dog "Shiva"](../pics/shiva.jpg)
+![Picture of my dog "Shiva"](../pics/code.jpg)
 </div>
 
 </div>
@@ -52,7 +52,7 @@ För mig passa
 </div>
 
 <div class="picture">
-![Picture of my dog "Shiva"](../pics/shiva.jpg)
+![Picture of my dog "Shiva"](../pics/distance.jpg)
 </div>
 
 </div>
@@ -71,7 +71,7 @@ här kommer lite text bara för att skriva en massa
 </div>
 
 <div class="picture">
-![Picture of my dog "Shiva"](../pics/shiva.jpg)
+![Picture of my dog "Shiva"](../pics/bbq.jpg)
 </div>
 
 </div>

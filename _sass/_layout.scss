@@ -109,6 +109,7 @@
 .box {
     width: 730px;
     border-bottom: solid 1px;
+    border-color: #385F71;
     padding-top:20px;
     height: 250px;
 
@@ -141,17 +142,19 @@
     width:450px;
     float:right;
     text-align: center;
-    padding-top:50px;
+    padding-top: 50px;
 }
 
 #profile{
-    border: solid 5px;
-    border-color: #eeeeff;
+    border: solid 7px;
+    border-radius: 10px;
+    border-color: #385F71;
 }
 
 #mainContent{
     float:left;
     width: 750px;
+    padding-top:20px;
 }
 
 

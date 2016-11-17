@@ -1,0 +1,243 @@
+body {background-color: #cccac7; margin:0; padding:0;}
+html {
+  overflow-y: scroll;
+}
+#wrap {background-color: #FFF; width: 800px; margin: auto; position: relative; font-family: verdana;}
+
+
+/* CSS SOM FINNS PÅ ALLA SIDOR */
+
+header {height: 100px; width: 800px; background-color: #5b0500; background-image: url("pics/logos.jpg"); background-repeat: no-repeat;}
+header h1 {float: left; margin:0; padding-left: 15px; padding-top: 10px;color: #FFF; font-size: 60px; text-shadow: 3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;}
+
+.hr {width: 800px; height: 3px; background-color: #ff1111;}
+nav {background-color: #000; height: 50px;}
+#menu {font-size: 14px;}
+
+nav ul {list-style: none; background-color: black; padding-left: 0px; text-align: center; margin: 15px;}
+nav ul li {display:inline;}
+nav li a {color: #FFF; padding: 15px; text-decoration: none; }
+nav li a:hover {background-color:red; color: #FFF;}
+
+footer {height: 40px; width: 800px; background-color: #5b0500; clear: both; margin: auto;}
+footer p {text-align: center; color: #FFF; font-size: 12px; margin: 0px; padding: 5px;}
+
+/* --SLUT-- CSS SOM FINNS PÅ ALLA SIDOR */
+
+main {height: 100%;}
+.banner {height: 345px;}
+
+#openTime {padding-left: 20px; padding-top:20px;}
+#weekdays {color: #FFF; float:left; width: 70px;}
+#openHours {color: #FFF; float:left; padding-left: 20px;}
+#openTime h1 {font-size: 18px; color:#FFF; text-decoration: underline;  margin:0; padding-bottom:10px;}
+#map {width: 790px; height: 400px; border:0; padding:5px;}
+
+#info {float: right; margin-bottom:5px;}
+#boxTitleInfo {width: 280px; height: 35px; background-color: #000; margin: 0; padding:0; margin-top: 5px;}
+#info h6 {padding:5px; margin:0; text-align: center; font-size: 18px; color: #FFF;}
+#boxInfo {width: 280px; height: 440px; background-color: #5b0500;}
+
+#map {width:250px; height: 200px; margin:10px;}
+
+#boxContent {width: 505px; background-color: #FFF; float: left; margin: 0; padding:0;}
+.left {float:left; margin:0; padding:0;}
+.right {float: right; margin:0; padding:0;}
+
+.box {width: 250px; height: 150px; margin: 0; padding:0;}  
+.boxTitle {width: 250px; height: 35px; background-color: #000; margin: 0; padding:0; margin-top: 5px;}
+.boxText {width: 250px; height: 50px; background-color: #000; margin:0; padding:0;}
+
+#boxContent h6 {padding:5px; margin:0; text-align: center; font-size: 18px; color: #FFF;}
+#boxContent p {text-align: center; color: #FFF; font-size: 12px; margin:0; padding:7px;}
+
+
+#about {padding:10px; float: left; width:500px;}
+#picture {float:right; width: 230px; padding:10px;}
+.pictures {border: solid; margin:10px;}
+#about p {font-size: 14px;}
+
+#staff {padding:10px; float:left; width:500px;}
+#staff p {margin-top:5px; font-size: 14px;}
+#staff h4 {margin-bottom:0;}
+
+/* HÄR STARTAR MAT-MENY CSS */
+#navMeny {width: 100%; font-size: 14px;}
+#navMeny ul {list-style: none; text-align: center; background-color: #FFF; margin:0; padding:0;}
+#navMeny ul li {display:inline;}
+#navMeny li a {color: #000; margin:10px; text-decoration: none; }
+#navMeny li a:hover {color: red; }
+
+#meny {padding:0; margin:0; width: 100%; float: right; background-color: #FFF;}
+#meny table {border-collapse: collapse; width: 100%;}
+#meny th{height: 60px; text-align: left; font-size: 24px; color: #000; padding-left: 5px;}
+#meny td.dish {width: 80%; height: 50px; float: left; padding:0; margin:0;}
+#meny td.price {width: 19%; height: 50px; float: right; padding:0; margin:0;}
+
+#meny td.dish h5 { padding:0; margin:0; color: #000; padding-top:5px; padding-left:5px; font-size: 12px; color: #000;}
+#meny td.dish p { padding:0; margin:0; color: #000;padding-top:5px; padding-left:5px; font-size: 10px;}
+
+#meny td.price h5 { padding:0; margin:0; color: #000; padding-top:5px; padding-right:5px; font-size: 12px; color: #000; text-align: right;}
+#meny tr {border-bottom-style: solid; border-color: #ded9d6; border-width: 1px;}
+/* HÄR SLUTAR MAT MENY-CSS */
+
+
+/* HÄR STARTAR FORUMLÄR */
+#contactForm {margin: 20px; float: left; width: 300px;}
+#bokaBord {margin: 20px; float: right; width: 300px;}
+
+
+
+/* HÄR BÖRJAR MOBIL ANPASSNING */
+
+@media screen and (max-width: 360px){
+/* CSS SOM FINNS PÅ ALLA SIDOR */
+
+header {height: 100px; width: 360px; background-color: #5b0500; background-repeat: no-repeat;}
+header h1 {float: left; margin:0; padding-left: 15px; padding-top: 10px;color: #FFF; font-size: 40px; text-shadow: 3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;}
+
+.hr {width: 0px; height: 1px; background-color: #ff1111;}
+nav {background-color: #000; height:100%; margin-top:5px;}
+
+nav ul {list-style: none; background-color: black; text-align: left;padding: 5px; margin:0px;}
+nav ul li {display:block;}
+nav li a {color: #FFF; padding: 0px;text-decoration: none; }
+
+
+footer {height: 40px; width: 360px; background-color: #5b0500; clear: both; margin: auto;}
+
+/* --SLUT-- CSS SOM FINNS PÅ ALLA SIDOR */
+
+#wrap {background-color: #FFF; width: 360px; margin: auto; position: relative; font-family: verdana;}
+main {height: 100%;}
+.banner {	display: none;}
+
+
+
+#openTime {padding-left: 20px; padding-top:20px;}
+#openTime h1 {font-size: 18px; color:#FFF; text-decoration: underline;  margin:0; padding-bottom:10px;}
+
+#info {float: right; margin-bottom:0px; width: 360px;}
+#boxTitleInfo {width: 360px; height: 35px; background-color: #000; margin:0; padding:0; margin-top: 5px;}
+
+#boxInfo {width: 360px; height: 440px; background-color: #5b0500;}
+
+#boxContent {width: 360px; background-color: #FFF; float: left; margin: 0; padding:0;}
+.left {float:left; margin:0; padding:0;}
+.right {float: left; margin:0; padding:0;}
+
+.box {width: 360px; height: 150px; margin: 0; padding:0; text-align: center;}  
+.boxTitle {width: 360px; height: 35px; background-color: #000; margin: 0; padding:0; margin-top: 5px;}
+.boxText {width: 360px; height: 50px; background-color: #000; margin:0; padding:0;}
+
+#boxContent h6 {padding:5px; margin:0; text-align: center; font-size: 18px; color: #FFF;}
+#boxContent p {text-align: center; color: #FFF; font-size: 12px; margin:0; padding:7px;}
+
+
+#about {padding:10px; float: left; width:300px;}
+#picture {display: none;}
+.pictures {border: solid; margin:10px;}
+#about p {font-size: 14px;}
+
+#staff {padding:10px; float:left; width:300px;}
+#staff p {margin-top:5px; font-size: 14px;}
+#staff h4 {margin-bottom:0;}
+
+
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 260px){
+/* CSS SOM FINNS PÅ ALLA SIDOR */
+
+header {height: 100px; width: 260px; background-color: #5b0500;}
+header h1 {float: left; margin:0; padding-left: 15px; padding-top: 10px;color: #FFF; font-size: 30px; text-shadow: 3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;}
+
+.hr {width: 0px; height: 1px; background-color: #ff1111;}
+nav {background-color: #000; height:100%; margin-top:5px;}
+
+nav ul {list-style: none; background-color: black; text-align: left;padding: 5px; margin:0px;}
+nav ul li {display:block;}
+nav li a {color: #FFF; padding: 0px;text-decoration: none; }
+
+
+footer {height: 40px; width: 260px; background-color: #5b0500; clear: both; margin: auto;}
+
+/* --SLUT-- CSS SOM FINNS PÅ ALLA SIDOR */
+
+#wrap {background-color: #FFF; width: 260px; margin: auto; position: relative; font-family: verdana;}
+main {height: 100%;}
+.banner {display: none;}
+
+
+
+#openTime {padding-left: 20px; padding-top:20px;}
+#openTime h1 {font-size: 18px; color:#FFF; text-decoration: underline;  margin:0; padding-bottom:10px;}
+
+#info {float: left; margin-bottom:0px; width: 260px;;}
+#boxTitleInfo {width: 260px; height: 35px; background-color: #000; margin:0; padding:0; margin-top: 5px;}
+
+#boxInfo {width: 260px; height: 440px; background-color: #5b0500;}
+
+#boxContent {width: 260px; background-color: #FFF; float: left; margin: 0; padding:0;}
+.left {float:left; margin:0; padding:0;}
+.right {float: left; margin:0; padding:0;}
+
+.box {width: 260px; height: 150px; margin: 0; padding:0; text-align: center;}  
+.boxTitle {width: 260px; height: 35px; background-color: #000; margin: 0; padding:0; margin-top: 5px;}
+.boxText {width: 260px; height: 50px; background-color: #000; margin:0; padding:0;}
+
+#boxContent h6 {padding:5px; margin:0; text-align: center; font-size: 18px; color: #FFF;}
+#boxContent p {text-align: center; color: #FFF; font-size: 12px; margin:0; padding:7px;}
+
+#about {padding:10px; float: left; width:200px;}
+#picture {visibility: hidden; width: 0px;}
+.pictures {border: solid; margin:10px;}
+#about p {font-size: 14px;}
+
+#staff {padding:10px; float:left; width:200px;}
+#staff p {margin-top:5px; font-size: 14px;}
+#staff h4 {margin-bottom:0;}
+
+#meny td.dish p { visibility: hidden;}
+
+/* HÄR STARTAR FORUMLÄR */
+#contactForm {margin: 20px; float: left; width: 200px;}
+#bokaBord {margin: 20px; float: right; width: 200px;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
