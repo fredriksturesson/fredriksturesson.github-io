@@ -9,7 +9,7 @@ permalink: /Projekt/
 
 <br>
 
-#Webbteknik 1:
+# Webbteknik 1:
 
 #### Beskrivning
 I webbteknik 1, arbetade vi med HTML och CSS. De första två arbeterna vi gjorde i kursen var efter "Anvisningar" för att lära oss fram till sista arbetet där vi 
@@ -23,7 +23,7 @@ Klicka på länken nedanför att se hemsidan till restaurangen BBQhouse.
 
 <br>
 
-#Grundläggandeprogrammering:
+# Grundläggandeprogrammering:
 
 #### Beskrivning
 
