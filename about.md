@@ -13,8 +13,8 @@ permalink: /ommig/
 # Vem är jag?
 Hej!
 Mitt namn är som ni förmodligen redan vet nu Fredrik Sturesson. Jag bor tillsammans med min sambo i Alingsås med våran valp Shiva.
-Nuvarande läser jag "utveckling och drife av mjukvarusystem" på distans med bas på Linnéuniversitetet. Mer om det under  rubrken "Mina studier". 
-Jag är en glad och nyfiken pojk på 22 år. Pojk skulle jag nog fortfarande definera mig som med tanke på hur barnslig jag kan va..
+Nuvarande läser jag "utveckling och drift av mjukvarusystem" på distans med basen på Linnéuniversitetet. Mer om det under  rubriken "Mina studier". 
+Jag har växt upp i Lerum som ligger mellan Alingsås och Göteborg, men flyttade till Alingsås tillsammans med min sambo för ca två år sedan.
 </div>
 
 <div class="picture">
@@ -29,9 +29,9 @@ Jag är en glad och nyfiken pojk på 22 år. Pojk skulle jag nog fortfarande def
 
 <div class="boxContent">
 # Mina stuider
-I programet "utveckling och drife av mjukvarusystem" har vi än så länge läst Javascript och HTML/CSS, de kurser är nu avslutade.
+I programet "Utveckling och drift av mjukvarusystem" har vi läst Javascript och HTML/CSS, de kurser är nu avslutade.
 Nu läser vi nu "Klientbaserad webbprogrammering" som är en kurs som kopplar samman Javascript med HTML/CSS.
-Parallellt med "Klientbaserad webbprogrammering" läser vi även Java.
+Parallellt med den kursen läser vi även Problemlösning och programmering där vi använder språket Java.
 </div>
 
 <div class="picture">
@@ -46,9 +46,10 @@ Parallellt med "Klientbaserad webbprogrammering" läser vi även Java.
 
 <div class="boxContent">
 # Distans stuider
-Distans stuider kan för många låta lite avskräckade och jobbigt och svårt, vilket jag kan förstå för det låter väldigt konstigt att man kan sitta hemma i tre år och få sin examen. 
-Men personligen lockade distansstudier redan från början när jag letade högskola, jag sökte både campus och distans utbildningar på flera högskolor men när jag blev antagen på utbildning jag läser nu va valet aldrig svårt.
-För mig passa
+För mig kändes distansstuider som en perfekt studieform för min egen del. Det kanske låter konstigt med distansstuider men faktum är att jag skulle nog aldrig kunna tänka mig
+att studera på campus efter att ha börjat på distans. 
+
+För mig passar distans perfekt då jag kan ta hand om vår valp, jag kan lägga upp själv hur jag studerar, man kan helt enkelt styra sitt liv mer med distansstuider
 </div>
 
 <div class="picture">
@@ -63,11 +64,10 @@ För mig passa
 
 <div class="boxContent">
 # Mina intressen
-här kommer lite text bara för att skriva en massa
-här kommer lite text bara för att skriva en massa
-här kommer lite text bara för att skriva en massa
-här kommer lite text bara för att skriva en massa
-här kommer lite text bara för att skriva en massa
+På min fritid när jag inte pluggar så brukra jag ibland när det finns tid för det hoppa in och jobba som vikarie på en skola som jag arbetade på i 3års tid innan jag började studera. 
+
+Men mitt största intresse är BBQ/grillning. Det finns inget roligare och godare än att grilla och experimentera med mat och smaker. Det gör inget om det tar merän 5 timmar att grillar klart för
+när man väl äter köttet som legat på grillen i x-antal timmar så är det ren njutning!
 </div>
 
 <div class="picture">
