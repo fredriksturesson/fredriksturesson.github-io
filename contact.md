@@ -11,7 +11,7 @@ permalink: /kontakt/
 
 
 ### Sociala medier
-[Facebook](https://www.facebook.com/sturessonfredrik)
+[Facebook](https://www.facebook.com/sturessonfredrik){:target="_blank"}
 
 
 

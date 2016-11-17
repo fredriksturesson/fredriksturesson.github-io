@@ -106,21 +106,27 @@
 }
 
 
-.leftBox{
-    float:left;
-    width:500px;
+.box {
+    width: 730px;
     border-bottom: solid 1px;
-    min-height: 250px;
     padding-top:20px;
+    height: 250px;
+
 }
 
+.box:last-child {border-bottom: none;}
+
+.boxContent {
+    width: 500px;
+    float: left;
+}
 
 .picture{
     float:right;
     width:200px;
     border: solid 5px;
     height: 200px;
-    margin-top:50px;
+
 }
 
 
