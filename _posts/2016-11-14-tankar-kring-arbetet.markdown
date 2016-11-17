@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-####What do you think of pre-compiling your CSS?
+#### What do you think of pre-compiling your CSS?
 
 Att arbeta med scss var en ny och spännande teknik för min del. Jag har arbetat en del med html och css innan jag påbörjade denna utbildning men aldrig använt mig av denna teknik. Från början när jag hörde talas om det på föreläsningen kändes det som att det skulle kännas ganska så enkelt att ställa om sig till ett nytt arbetssätt, men efter att fått igång Vagrant efter mycket strul så va jag inte längre så säker med att det skulle bli ”enkelt”.
 
@@ -21,7 +21,7 @@ Min slutssatts är att det är en väldigt kraftfullt verktyg som kan förenkla 
 
 <br>
 
-####What do you think of static site generators?
+#### What do you think of static site generators?
 
 Precis som med scss va Markdown ett nytt och spännande arbetssätt. Det var ett väldigt skönt sätt att skriva kod på. Det gjorde så att det blev bra struktur och enkelt att läsa.
 
@@ -31,7 +31,7 @@ Markdown eller andra ”static site generator” verktyg skulle jag säga passar
 
 <br>
 
-####What is robots.txt and how have you configure it for your site?
+#### What is robots.txt and how have you configure it for your site?
 
 Robots.txt används för att skydda filer på hemsidan, ibland vill man inte att användare skall kunna komma åt visa filer och med hjälp utav robots.txt kan man skydda sig lite från detta. Det är dock inte rekommenderat att man sparar lösenord eller annan känsligdata i en fil på servern ändå och tro att den skulle vara helt skyddad av robots.txt.
 
@@ -39,7 +39,7 @@ Jag har valt att lägga till Disallow: i robots.txt för att till låta "spindla
 
 <br>
 
-####What is humans.txt and how have you configure it for your site?
+#### What is humans.txt and how have you configure it for your site?
 
 Humans.txt används för användaren som går in på en hemsida skall kunna se vem som ligger bakom sidan och också hitta information vart man lånat någon bild eller liknande ifrån då kan man ge ”credit” till den personen eller företaget som bidragit till sidan.
 
@@ -47,7 +47,7 @@ Jag har valt att på min humans.txt att börja med att skriva att jag är skapar
 
 <br>
 
-####How did you implements comments to blog posts
+#### How did you implements comments to blog posts
 
 Jag använde mig utav disqus för att kunna kommentera på blogginläggen. Det är ett verktyg som vi fick rekommenderat i kursen och det visade sig att det passade mig väldigt bra, det va enkelt att arbeta med och ett kraftfullt verktyg. För att använda sig av disqus så registerar man sig på deras hemsida och sedan följer man enkla och tydliga instruktioner. Det finns olika verktyg man som man kan välja mellan beroende på vad man jobbar med, t ex Wordpress och Jekyll.
 
@@ -56,7 +56,7 @@ Det tog mig ca 3 – 5 minuter att få det inlagt på blogginläggen, man får e
 
 <br>
 
-####What is Open Graph and how do you make use of it?
+#### What is Open Graph and how do you make use of it?
 
 Open graph används för att göra det enklare för användare att dela saker från sidan. Med open graph blir det en förhandsvisning av innehållet när man delar sidan så användere som ser ”delningen” vet vad det är den går in på för sida och att det faktiskt är relevant för den personen och inte bara se en länk.
 
