@@ -19,7 +19,7 @@ skulle ta fram en hemsida åt ett företag, jag skapade en hemsida åt en nyöpp
 
 Klicka på länken nedanför att se hemsidan till restaurangen BBQhouse.
 
-[BBQ-restaurants](../project/bbqhouse/start.html){:target="_blank"}
+[BBQ-restaurants](/project/bbqhouse/start.html){:target="_blank"}
 
 <br>
 
