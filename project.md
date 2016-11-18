@@ -19,7 +19,7 @@ skulle ta fram en hemsida åt ett företag, jag skapade en hemsida åt en nyöpp
 
 Klicka på länken nedanför att se hemsidan till restaurangen BBQhouse.
 
-[BBQ-restaurants](/project/BBQhouse/start.html){:target="_blank"}
+[BBQ-restaurants](/project/BBQhouse/start.html){:target="_blank"} (öppnas i nyflik)
 
 <br>
 
@@ -39,6 +39,6 @@ Den tredje uppgiften gick ut på att man skulle skriva ett spel "21:an"
 
 Klicka på länkarna nedanför för att se min gibhub för respektive uppgift
 
-[Examination 1](https://github.com/1dv021/fs222qi-examination-1){:target="_blank"}
+[Examination 1](https://github.com/1dv021/fs222qi-examination-1){:target="_blank"} (öppnas i nyflik)
 
-[Examination 2](https://github.com/1dv021/fs222qi-examination-2){:target="_blank"}
+[Examination 2](https://github.com/1dv021/fs222qi-examination-2){:target="_blank"} (öppnas i nyflik)
